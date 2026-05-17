@@ -7,7 +7,7 @@ export const Route = createFileRoute("/poem/$poemId")({
     const poem = poems.find((p) => p.id === params?.poemId);
     return {
       meta: [
-        { title: poem ? `${poem.title} — Letters from a Quiet Alley` : "Poem" },
+        { title: poem ? `${poem.title} — My dear AC | Letters from a Quiet Alley` : "Poem" },
         { name: "description", content: poem?.subtitle ?? "A poem" },
       ],
       links: [

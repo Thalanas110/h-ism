@@ -5,7 +5,7 @@ import { poems } from "@/data/poems";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Letters from a Quiet Alley — Six Poems" },
+      { title: "My dear AC | Letters from a Quiet Alley — Six Poems" },
       { name: "description", content: "A collection of six poems on loneliness, love, disaster, and the oath beneath the ruins." },
     ],
     links: [
