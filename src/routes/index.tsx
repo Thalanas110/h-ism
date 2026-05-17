@@ -28,14 +28,14 @@ function Index() {
       <div className="fixed inset-0 -z-10 bg-gradient-to-b from-background/60 via-background/75 to-background/95" aria-hidden />
 
       <header className="px-6 pt-24 pb-20 text-center fade-up">
-        <p className="font-label text-[0.65rem] text-foreground/55">A Collection · MMXXVI</p>
+        <p className="font-label text-[0.65rem] text-foreground/55">Collections 01 | May 18, 2026</p>
         <h1 className="font-display mt-6 text-6xl sm:text-8xl text-foreground">
           Letters from a<br />
           <span className="font-display-italic">Quiet Alley</span>
         </h1>
         <div className="mx-auto mt-8 h-px w-16 bg-foreground/30" />
         <p className="font-verse mt-8 max-w-xl mx-auto text-lg text-foreground/75 italic leading-relaxed">
-          Six poems written between the war and the warmth — for the one whose voice still reaches through the static.
+          My dear, please click a poem to view in full.
         </p>
       </header>
 
