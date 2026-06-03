@@ -271,9 +271,9 @@ And realize love survived precisely because it chose.`),
     ],
   },
   {
-    id: "sealed-away",
+    id: "untold-question",
     numeral: "VII",
-    title: "Sealed Away",
+    title: "The Untold Question",
     subtitle: "A heart that slowly found its peace in you",
     stanzas: [
       s("Stanza 1", `There was a time I sealed my heart away,
